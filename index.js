@@ -18,6 +18,7 @@
 // step 5: return array3.
 // step 6: check if array3[i] % 2 == 1 if yes
 // step 7: store values into array4.
+// step 8: return array4.
 
 
 //Expect concatOdds([3, 2, 1], [9, 1, 1, 1, 4, 15, -1]) to be integer numbers.
